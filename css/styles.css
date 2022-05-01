@@ -23,7 +23,7 @@ nav{
 
 nav a{
     color: black;
-    font-size: large;
+    font-size: medium;
 }
 
 .main-container {
@@ -35,7 +35,7 @@ nav a{
 nav img{
     width: 7%;
     float: left;
-    margin-top: 10px;
+    margin-top: 1%;
     margin-left: 260px;
 }
 
@@ -53,7 +53,7 @@ nav ul li{
 .classworks h1{
     color: rgb(121, 121, 121);
     font-weight:400;
-    font-size: large;
+    font-size: medium;
     display:inline-block;
     margin-bottom: 20px;
 }
@@ -102,18 +102,18 @@ aside img{
 .sideproject h1{
     color: rgb(121, 121, 121);
     font-weight:400;
-    font-size: large;
+    font-size: medium;
     display:inline-block;
     margin-top: 100px;
     margin-bottom: 20px;
 }
 
 .footer{
-    color: rgb(25, 189, 3);
+    color:#888888;
     text-align: center;
     padding: 30px;
-    font-size:medium;
-    font-weight: 300;
+    font-size:small;
+    font-weight: 200;
     border-top: 1.5px solid silver;
     background-color: white;
 }
